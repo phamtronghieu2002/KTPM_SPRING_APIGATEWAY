@@ -2,19 +2,7 @@
 ## Chạy service Product,User
 ## Chạy service Getway
 ### Eureka(Client)
-```maven
-<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-</dependency>
-```
-### Eureka(Server)
-```maven
-<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
-</dependency>
-```
+
 - Service User
 http://localhost:8802/api/v1/user
 ![image](https://github.com/chicuongdev2002/SpringCloud_EurekaNetflix/assets/124854803/600a90ba-6246-42c8-8735-81bee2342c4b)
